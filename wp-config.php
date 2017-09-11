@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wppruebas');
+define('DB_NAME', 'd7lssm72gihb37');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'jtbvvemdnwonuw');
 
 /** MySQL database password */
-define('DB_PASSWORD', '1234');
+define('DB_PASSWORD', '571889519d19c16811f3776a94f5b3c8671a3499973a3fc650f7f7184a83d866');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost:3306');
+define('DB_HOST', 'c2-184-73-189-190.compute-1.amazonaws.com:5432');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
